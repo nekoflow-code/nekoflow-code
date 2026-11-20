@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/nekoflowcode">GitHub</a> •
+  <a href="https://github.com/nekoflow-code">GitHub</a> •
   <a href="mailto:nekoflowcode@gmail.com">Contacto</a>
 </p>
 
